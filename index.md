@@ -11,7 +11,7 @@ UPIF transforms prompts into governable, auditable, and personalized digital art
 
 ## 📄 Whitepaper
 
-[Download the PDF]([./whitepaper/UPIF_Whitepaper.pdf](https://github.com/rgthomas007/upif-protocol/blob/main/UPIF_Whitepaper.pdf))
+[Download the PDF]((https://github.com/rgthomas007/upif-protocol/blob/main/UPIF_Whitepaper.pdf))
 
 ## 🔗 Links
 
