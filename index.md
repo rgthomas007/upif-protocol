@@ -9,7 +9,7 @@ A foundational protocol for ethical, attributed, and multi-modal generative AI o
 UPIF introduces a 7-layer architecture that transforms prompts into auditable, governable digital assets across text, image, audio, and video modalities.
 
 ## 📄 Download the Whitepaper
-👉 [Download UPIF Whitepaper (PDF)](./whitepaper/UPIF_Whitepaper.pdf)
+👉 [Download UPIF Whitepaper (PDF)]((https://github.com/rgthomas007/upif-protocol/blob/main/UPIF_Whitepaper.pdf))
 
 ## 🛠 7-Layer System Overview
 - **L1:** Co-Prompting Interface
